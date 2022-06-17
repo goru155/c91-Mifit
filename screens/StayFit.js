@@ -4,7 +4,7 @@ import {
   View
   } from "react-native";
 
-export default class Diet extends Component {
+export default class StayFit extends Component {
   render(){
     return(
       <View>
